@@ -32,9 +32,11 @@ products:
 values:
   heading: A bit about me
   text: >-
-    I have been fortunate and conducted thorough analysis to make some
-    successful real estate investments, I have an MBA from UC Berkeley, and I
-    have a knack for financial analysis having led merger and acquisitions
-    analysis for numerous large tech companies.
+    Through a combination of thorough analysis and of course some luck, I have
+    been fortunate to make a series of successful real estate investments, and
+    I'm sharing my technique, approach, and secrets with you.  I have an MBA
+    from UC Berkeley, and I have a knack for financial analysis having led
+    merger and acquisitions analysis for some of Silicon Valley's most exciting
+    tech companies.
 ---
 

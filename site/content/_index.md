@@ -1,21 +1,22 @@
 ---
 title: 'Spreadsheets for Investment Properties and Financial Planning '
 subtitle: Evaluate the financial returns and cash flows of investment properties.
-image: /img/landingstock_image_22.jpg
+image: /img/cash-register-from-the-50ies-free-license-cc0.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why you need this spreadsheet
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I created this spreadsheet to evaluate my investments in rental properties. 
+    I looked at the simple rental property calculators and the more advanced
+    ones on BiggerPockets, but none of them had sufficient level of detail to
+    provide me with an estimated return that I could believe in. Smart investors
+    need to be able to see all the assumptions and adjust them to meet their
+    needs. The difference between ignoring the tax benefits of a rental property
+    or the price appreciation, can make you miss out on what may be a great
+    investment.  This spreadsheet gives you that level of control to make the
+    right investment decisions.
 intro:
   heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: We offer several google sheets that are customizable to your needs.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -31,11 +32,11 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: A bit about me
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    I have been fortunate and conducted thorough analysis to make some
+    successful real estate investments, I have an MBA from UC Berkeley, and I
+    have a knack for financial analysis having led merger and acquisitions
+    analysis for numerous large tech companies.
 ---
 

@@ -1,7 +1,6 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: The Spreadsheets
+image: /img/undraw_all_the_data_h4ki.svg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 

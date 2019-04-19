@@ -2,11 +2,7 @@
 title: The Spreadsheets
 image: /img/undraw_all_the_data_h4ki.svg
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: 'Learn whether a rental property is a good investment. '
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,11 +33,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    Learn whether a rental property is a good investment. 
 main:
   heading: Great coffee with no compromises
   description: >

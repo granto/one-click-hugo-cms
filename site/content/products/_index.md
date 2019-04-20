@@ -28,9 +28,9 @@ main:
     image: /img/undraw_city_girl_ccpd.svg
   image3:
     alt: Logo
-    image: /img/logo.svg
+    image: /img/blank.jpg
 testimonials: []
-full_image: /img/logo.svg
+full_image: /img/blank.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-

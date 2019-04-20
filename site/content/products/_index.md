@@ -55,9 +55,7 @@ pricing:
         COMING SOON.  For the serious investor that wants to understand the
         impact of different assumptions and compare scenarios and properties. 
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - ''
       plan: Multi Scenario Edition
       price: '500'
 ---

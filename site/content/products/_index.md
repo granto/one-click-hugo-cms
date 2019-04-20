@@ -30,7 +30,7 @@ main:
     alt: Logo
     image: /img/blank.jpg
 testimonials: []
-full_image: /img/blank.jpg
+full_image: /img/cash-register-from-the-50ies-free-license-cc0.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-

@@ -26,11 +26,7 @@ main:
   image2:
     alt: Multiple property edition
     image: /img/undraw_city_girl_ccpd.svg
-  image3:
-    alt: Logo
-    image: /img/blank.jpg
 testimonials: []
-full_image: /img/cash-register-from-the-50ies-free-license-cc0.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-

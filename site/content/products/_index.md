@@ -5,9 +5,10 @@ heading: What we offer
 description: 'Learn whether a rental property is a good investment. '
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/undraw_investing_7u74.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        **Investment Property Evaluation: Single Property Edition** We sell
+        green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -33,8 +34,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: |
-    Learn whether a rental property is a good investment. 
+  description: >-
+    Use the tools of successful real estate investors to evaluate rental
+    properties.  Our spreadsheets crunch all the numbers to show you whether the
+    property is a good investment.
 main:
   heading: Great coffee with no compromises
   description: >

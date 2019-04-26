@@ -5,15 +5,17 @@ image: /img/cash-register-from-the-50ies-free-license-cc0.jpg
 blurb:
   heading: Why you need this spreadsheet
   text: >-
-    I created this spreadsheet to evaluate my investments in rental properties. 
-    I looked at the simple rental property calculators and the more advanced
-    ones on BiggerPockets, but none of them had sufficient level of detail to
-    provide me with an estimated return that I could believe in. Smart investors
-    need to be able to see all the assumptions and adjust them to meet their
-    needs. The difference between ignoring the tax benefits of a rental property
-    or the price appreciation, can make you miss out on what may be a great
-    investment.  This spreadsheet gives you that level of control to make the
-    right investment decisions.
+    I created this
+    [spreadsheet](https://docs.google.com/spreadsheets/d/1i6xNZiNVn53_bnibfEvKeMQi52ueFYMWFjUDUTprFqs/edit?usp=sharing)
+    to evaluate my investments in rental properties.  I looked at the simple
+    rental property calculators and the more advanced ones on BiggerPockets, but
+    none of them had sufficient level of detail to provide me with an estimated
+    return that I could believe in. Smart investors need to be able to see all
+    the assumptions and adjust them to meet their needs. The difference between
+    ignoring the tax benefits of a rental property or the price appreciation,
+    can make you miss out on what may be a great investment.  This spreadsheet
+    gives you that level of control to make the right investment decisions and
+    much more informed position than the vast majority of others.
 intro:
   heading: What we offer
   text: We offer several google sheets that are customizable to your needs.

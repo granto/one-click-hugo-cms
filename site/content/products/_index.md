@@ -13,13 +13,7 @@ intro:
 main:
   heading: 'Investment Property Evaluation Spreadsheet: Single Property Edition'
   description: >-
-    This spreadsheet calculates the metrics needed to assess the attractiveness
-    of a particular investment property. You'll see your CapRate, Cash Flow,
-    Gross Rental Yield, date of cash flow positive, IRR, and other important
-    metrics.  A number of premium versions will be available soon including
-    Multiple Property Edition: This spreadsheet expands on the Single Property
-    Edition by allowing you to compare multiple properties to see which one is
-    best.
+    Check out a live demo of this [Google Spreadsheet for evaluating investment properties here](https://docs.google.com/spreadsheets/d/1i6xNZiNVn53_bnibfEvKeMQi52ueFYMWFjUDUTprFqs/edit?usp=sharing).  This spreadsheet calculates the metrics needed to assess the attractiveness of a particular investment property. You'll see your CapRate, Cash Flow, Gross Rental Yield, date of cash flow positive, IRR, and other important metrics.  A number of premium versions will be available soon including Multiple Property Edition: This spreadsheet expands on the Single Property Edition by allowing you to compare multiple properties to see which one is best.
   image1:
     alt: Single property edition
     image: /img/undraw_investing_7u74.svg
